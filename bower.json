@@ -1,0 +1,22 @@
+{
+  "name": "iebc",
+  "authors": [
+    "steve <steviewez@gmail.com>"
+  ],
+  "description": "Pulling Candidates information",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "angularjs#^1.6.5"
+  }
+}
